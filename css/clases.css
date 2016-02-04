@@ -1,0 +1,50 @@
+/* Inserta tu codigo aqui */
+.tipo-clase {
+	color: white;
+	text-align: center;
+	background-color: black;
+	opacity: 0.5;
+	position: relative;
+	top: 140px;
+	left: 15px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	width: 265px;
+}
+.tipo-clase h4 {
+	font-size: 13px;
+	padding-bottom: 20px;
+}
+.imgClases {
+	width: 295px;
+	height: 395px;
+}
+.bg-ballet {
+	background-image: url("../img/dance_12.jpg");
+    background-size: 295px 398px;
+}
+.bg-moderm {
+	background-image: url("../img/breakdance.jpg");
+    background-size: 295px 484px;
+    background-position: 0px -45px;
+}
+.bg-jazz {
+	background-image: url("../img/lirical-jazz.jpg");
+    background-size: 295px 480px;
+    background-position: 0px -42px;
+}
+.bg-arabic {
+	background-image: url("../img/arabe.jpg");
+    background-size: 295px 476px;
+    background-position: 0px -41px;
+}
+.bg-kids {
+	background-image: url("../img/little.jpg");
+    background-size: 295px 480px;
+    background-position: 0px -40px;
+}
+.bg-yoga {
+	background-image: url("../img/yoga.jpg");
+    background-size: 295px 411px;
+    background-position: 0px -8px;
+}

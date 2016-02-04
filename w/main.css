@@ -1,0 +1,133 @@
+header{
+	text-align: center;
+}
+header nav{
+	margin-top: 2%;
+	margin-bottom:2%;
+}
+
+/*Section: danza*/
+.bck-danza{
+	background-image: url(../img/dance_1.jpg);
+    height: 480px;
+}
+.txt-sty{
+	color: white;
+}
+.text-box{
+	margin-top: 33%;
+    width: 80%;
+}
+.b-sty{
+	border: none;
+    border-radius: 5px;
+    color: white;
+ }
+.b-inscribete{
+	width: 60%;
+    height: 50px;
+    margin-top: 14%;
+    margin-bottom: 14%;
+    font-size: 100%;
+    background-color: #020E1E
+}
+.txt-size{
+	font-size: 500%;
+	padding-bottom: 13%;
+}
+
+/*Section institucional*/
+.bck-img{
+	background-image: url(../img/textura_2.jpg);
+}
+.b-oferta{
+	width: 45%;
+    height: 55px;
+    font-size: 140%;
+    background-color: #192951;
+}
+.decoration{
+	width: 24%;
+    height: 165px;
+}
+.box{
+	margin-top: 7%;
+	margin-bottom: 9%;
+    padding-left: 12%;
+    padding-right: 12%
+}
+.box p{
+	font-size: 150%;
+}
+/*Section Profesores*/
+.box-profesores{
+	width: 100%;
+	height: 352px;
+	border: solid 1px #020E1E
+}
+.box-img1{
+    background-size: 720px 482px;
+    height: 350px;
+	background-image: url(../img/instructor_4.jpg);
+}
+.box-img2{
+	background-size: 720px 482px;
+    height: 350px;
+	background-image: url(../img/profesor_9.jpg);
+}
+.danza{
+	font-family: "Latolight";
+	font-size: 45px;
+	padding: 5%;
+}
+.fondo-footer{
+    background-image: url(../img/shoes_1.jpg);
+    height: 480px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.form{
+    position: relative;
+    margin-left: 10%;
+}
+/* style icon */
+.form .fa {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+.left-icon .fa  { 
+    left:  0px;
+}
+.top-icon .fa{ 
+    top: -4px;
+}
+.right-addon .fa { 
+    right: 0px;
+}
+.left-icon input  {
+ padding-left:  30px; 
+}
+.fc-text{
+    height: 120px;
+    width: 100%;
+    border: gray 0.5px solid;
+}
+
+.form-control{
+     width: 100%;
+     height: 30px;
+    border: gray 0.5px solid;
+}
+textarea{
+    padding-left:6%;
+}
+
+.bckg-trs{
+    background: transparent;
+}
+.b-submit{
+    margin-left: 10%;
+    width: 90%;
+}

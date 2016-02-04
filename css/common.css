@@ -1,0 +1,93 @@
+
+/* header*/
+
+header h1 {
+	color: #192951;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	font-family: LatoLight;
+}
+nav ul {
+	text-align: center;
+	margin-left: 90px;
+	margin-bottom: 40px;
+}
+nav ul a {
+	text-decoration: none;
+	color: black;
+	margin-right: 100px;
+	font-family: LatoLight;
+}
+
+/*form y footer*/
+
+.form-section {
+	background-repeat: no-repeat;
+	background-image: url("../img/shoes_1.jpg");
+    background-size: 870px 600px;
+    background-position: right;    
+}
+.form-section h1 {
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+.form-design {
+	background-color: transparent;
+	border: solid #EAE8E8 2px;
+	width: 550px;
+	height: 50px;
+	font-size: 15px;
+	padding-top: 3px;
+	padding-left: 3%;
+	margin-bottom: -5px;
+}
+.text-design {
+	border: solid #EAE8E8 2px;
+	background-color: transparent;
+    width: 550px;
+    height: 150px;
+    padding-top: 10px;
+    font-size: 15px;
+    padding-left: 3%;
+}
+.button-design {
+	width: 550px;
+	height: 60px;
+	text-align: center;
+	padding-top: 3px;
+	background-color: #192951;
+	border-radius: 5px;
+	color: white;
+	margin-top: 15px;
+	font-size: 20px;
+	margin-bottom: 50px;
+	border: solid #192951 1px;
+}
+.icono-form {
+	position: relative;
+	left: 30px;
+}
+.pencil {
+	position: relative;
+	top: -123px;
+}
+footer {
+	padding-left: 3%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: #192951;
+}
+.derechosreservados p {
+	color: white;
+	font-size: 15px;
+	text-align: left;
+}
+
+/*subtitulo*/
+
+.subtitulo h1 {
+	color: black;
+	font-family: 30px;
+	text-align: center;
+}

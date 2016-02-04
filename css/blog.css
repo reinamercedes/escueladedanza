@@ -1,0 +1,31 @@
+/* Inserta tu codigo aqui */
+.imgblog img {
+	width: 277px;
+    height: 225px;
+}
+.bg-gray2 {
+    width: 870px;
+    height: 225px;
+    position: relative;
+    left: 85px;
+    background-color: #D8D9DD;
+}
+.bg-gray2 h5 {
+	color: #BFC2C7;
+}
+.bg-gray2 p {
+	font-size: 15px;
+}
+.vermas {
+	width: 250px;
+	height: 43px;
+	text-align: center;
+	padding-top: 10px;
+	background-color: #192951;
+	border-radius: 5px;
+	margin-bottom: 70px;
+	position: relative;
+	left: 0px;
+	top: 18px;
+	color: white;
+}

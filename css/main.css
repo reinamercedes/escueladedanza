@@ -1,0 +1,123 @@
+/* Inserta tu codigo aqui */
+.studio-section {
+	background-image: url("../img/dance_1.jpg");
+    height: 480px;
+    background-position: -70px 0px;
+}
+.studio-section h1 {
+	color: #C3C6C5;
+	font-size: 70px;
+	position: relative;
+	top: 65px;
+}
+.infoStudio p {
+	color: #C3C6C5;
+	font-size: 13px;
+	position: relative;
+	top: 100px;
+}
+.inscribete {
+	background-color: #030E1C;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    color: #C3C6C5;
+    padding-top: 10px;
+    position: relative;
+    top: 150px;
+    font-size: 14px;
+}
+.infoStudio {
+	width: 200px;
+}
+.oferta-section {
+	background-image: url("../img/textura_2.jpg");
+}
+.infoJuilliart {
+    width: 600px;
+    height: 100px;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    left: 190px;
+    top: 70px;
+}
+.separador img {
+	width: 100px;
+	position: relative;
+	left: 433px;
+}
+.ofertaButton {
+	width: 300px;
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	background-color: #192951;
+	border-radius: 3px;
+	margin-bottom: 70px;
+	position: relative;
+	left: 335px;
+	color: white;
+}
+.teacherpic1 {
+    border: solid #192951 2px;
+    height: 350px; 
+    width: 713px;
+    margin: 0px;
+    margin-top: -65px;
+    background-repeat: no-repeat;
+	background-image: url("../img/instructor_4.jpg");
+	background-size: 720px 482px;
+
+}
+.teacherpic2 {
+	border: solid #192951 2px;
+	margin: 0px;
+	height: 350px;
+	width: 711px;
+	margin-top: -65px;
+	background-repeat: no-repeat;
+	background-image: url("../img/profesor_9.jpg");
+	background-size: 750px 570px;
+}
+.nuestrosinstructores {
+	width: 500px;
+	height: 65px;
+	text-align: center;
+	padding-top: 20px;
+	background-color: #192951;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	left: 470px;
+	top: 283px;
+}
+.frase-section {
+	background-image: url("../img/textura_2.jpg");
+}
+.fraseinspiradora {
+	text-align: center;
+	color: black;
+	font-size: 27px;
+	font-family: Latolight;
+    font-weight: lighter;
+}
+.address-section {
+	background-color: #192951;
+}
+.infoDireccion {
+    color: white;
+    width: 450px;
+    font-size: 15px;
+    font-family: Latolight;
+    text-align: justify;
+}
+.visitanos {
+	color: white;
+	position: relative;
+	top: 85px;
+}
+
+
+
+
